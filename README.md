@@ -1,0 +1,1 @@
+Este es un ejemploo muy simple de cómo user chat gpt con la librería de python [OpenAI](https://pypi.org/project/openai/)
