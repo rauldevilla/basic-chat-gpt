@@ -1,1 +1,5 @@
-api_key="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"
+def get_api_key():
+    key = ''
+    with open('api-key.txt', 'r') as file:
+        key = file.readline().strip()
+    return key

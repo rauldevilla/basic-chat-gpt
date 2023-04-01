@@ -4,7 +4,7 @@ import typer
 from rich import print 
 
 def configure():
-    openai.api_key = config.api_key
+    openai.api_key = config.get_api_key()
 
 def get_initial_context():
     messages = []
