@@ -1,0 +1,21 @@
+{
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "message": {
+          "content": "La misi\u00f3n de OpenAI es desarrollar y promover la inteligencia artificial de una manera segura y beneficiosa para la humanidad. Su objetivo principal es crear IA de vanguardia y avanzada, as\u00ed como investigar y entender el potencial de la IA para resolver algunos de los mayores desaf\u00edos del mundo, como el cambio clim\u00e1tico, la pobreza y la atenci\u00f3n m\u00e9dica. Adem\u00e1s, OpenAI tambi\u00e9n busca garantizar que la IA se utilice de manera \u00e9tica y no represente una amenaza para la sociedad.",
+          "role": "assistant"
+        }
+      }
+    ],
+    "created": 1680372955,
+    "id": "chatcmpl-70a3XVF0K3RxbI0CkYJy6VawXLWor",
+    "model": "gpt-3.5-turbo-0301",
+    "object": "chat.completion",
+    "usage": {
+      "completion_tokens": 113,
+      "prompt_tokens": 19,
+      "total_tokens": 132
+    }
+  }
